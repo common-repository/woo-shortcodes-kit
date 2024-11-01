@@ -1,0 +1,48 @@
+----------------------------------------------------------------------------------------------------------------------
+WSHK v 2.0.3 (06/12/22) by Alberto G. - https://disespubli.com/
+
+Included:
+
+== Changelog ==
+
+= 2.0.3 =
+ *Changelog (06/12/22)
+
+
+NEW
+-----------
+
++ Choose the max number of products to display in the products loop added in function Customer purchased products loop
+
+
+UPDATED
+-----------
+
++ Edit account form now is not displayed on the orders, addresses or payment method tab when is saved.
+
++ Customer purchased products counter, now it displays correctly the sum of all products purchased by the customer
+
++ Now is compatible with the plugin Booster plus
+
++ Now is compatible with the plugin Buddyboss
+
++ English template
+
++ Spanish translation
+
+
+COMPATIBILITY TEST
+--------------------
+
++ Compatible with WordPress 6.1.1
+
++ Compatible with WooCommerce 7.1.0
+
++ Compatible with WSHK PRO 1.2.0
+
++ Compatible with Easy My Account Builder 1.1.0
+
++ Compatible with PHP 8
+
+
+[Old changelogs](https://disespubli.com/docs/)
